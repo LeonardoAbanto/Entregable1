@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "DATA FROM": "Bahamas Leaks",
+      "ENTITY": "ODEBRECHT OVERSEAS LIMITED",
+      "JURISDICTION": "Bahamas",
+      "LINKED TO": ""
+    },
+    {
+      "DATA FROM": "Bahamas Leaks",
+      "ENTITY": "IRMAOS ODEBRECHT LIMITADA",
+      "JURISDICTION": "Bahamas",
+      "LINKED TO": ""
+    },
+    {
+      "DATA FROM": "Bahamas Leaks",
+      "ENTITY": "ODEBRECHT SOLUTIONS, INC.",
+      "JURISDICTION": "Bahamas",
+      "LINKED TO": ""
+    },
+    {
+      "DATA FROM": "Paradise Papers",
+      "ENTITY": "ODEBRECHT CONSTRUCTION MALTA LIMITED",
+      "JURISDICTION": "Malta",
+      "LINKED TO": "Malta"
+    },
+    {
+      "DATA FROM": "Paradise Papers",
+      "ENTITY": "ODEBRECHT ENGINEERING & CONSTRUCTION LIMITED",
+      "JURISDICTION": "Malta",
+      "LINKED TO": "Malta"
+    },
+    {
+      "DATA FROM": "Paradise Papers",
+      "ENTITY": "Odebrecht Solutions Malta Limited",
+      "JURISDICTION": "Malta",
+      "LINKED TO": "Malta"
+    }
+  ],
+  "hits": 6,
+  "status": "success"
+}
