@@ -11,6 +11,7 @@ Instrucciones de despliegue:
 6. Para realizar la búsqueda de una empresa, realizar la solicitud a http://127.0.0.1:5000/search?name={nombre-de-la-empresa}
 
 Ejemplo de solicitud: http://127.0.0.1:5000/search?name=odebrecht
+
 Resultado: ejemplo.json
 
 Colección en Postman: https://www.postman.com/leonardoabanto/workspace/entrega1/collection/17383080-9c97a634-e879-4d00-a22b-2f1fc052d86c?action=share&creator=17383080
